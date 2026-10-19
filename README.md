@@ -7,7 +7,7 @@ version, with the file's sha256 in the notes so you can check your download.
 | Mod | What it is | Latest |
 |---|---|---|
 | WrongDroid Blasphemy | Carbon supercar in four versions (street, JATO, Wings, Crawler); 1.2.0 adds 8 vectored nozzles: hover, barrel rolls, soft landings, corner jets, rocket flames | [1.2.0](https://github.com/WrondDroid/wrongdroid-mods/releases/tag/blasphemy-v1.2.0) |
-| WrongDroid Sandbox | 2 km desert stunt sandbox with the WD Derby ONE MILE X-Track (ice jump ramp with frozen fish, mud, an icy turn) | coming soon |
+| WrongDroid Sandbox | 2 km desert stunt sandbox with the WD Derby ONE MILE X-Track (ice jump ramp with frozen fish, mud, an icy turn) | [2.1](https://github.com/WrondDroid/wrongdroid-mods/releases/tag/wd-sandbox-v2.1) |
 | WrongDroid Sandbox: Halloween | The sandbox at dusk: storm, ghost train, skull trains, SPOOKY BOT car wash | coming soon |
 
 ## Install
