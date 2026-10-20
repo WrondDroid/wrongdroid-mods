@@ -7,6 +7,7 @@ version, with the file's sha256 in the notes so you can check your download.
 | Mod | What it is | Latest |
 |---|---|---|
 | WrongDroid Blasphemy | Carbon supercar in four versions (street, JATO, Wings, Crawler); 1.2.0 adds 8 vectored nozzles: hover, barrel rolls, soft landings, corner jets, rocket flames | [1.2.1](https://github.com/WrondDroid/wrongdroid-mods/releases/tag/blasphemy-v1.2.1) |
+| WrongDroid Roadster (beta) | Armoured rust roadster: 573 hp V8, working hood machine gun, opening doors, hood and trunk | [1.1-beta](https://github.com/WrondDroid/wrongdroid-mods/releases/tag/roadster-v1.1-beta) |
 | WrongDroid Sandbox | 2 km desert stunt sandbox with the WD Derby ONE MILE X-Track (ice jump ramp with frozen fish, mud, an icy turn) | [2.1](https://github.com/WrondDroid/wrongdroid-mods/releases/tag/wd-sandbox-v2.1) |
 | WrongDroid Sandbox: Halloween | The sandbox at dusk: storm, haunted Toy Beach, skull trains, SPOOKY BOT car wash, and things to find | [2.0](https://github.com/WrondDroid/wrongdroid-mods/releases/tag/wd-sandbox-halloween-v2.0) |
 | WD Railways (beta) | Circus and bullet trains with animal crash dummies, a click-anywhere train picker and the Wild Sandbox map | [2026.10.19-beta](https://github.com/WrondDroid/wrongdroid-mods/releases/tag/wd-railways-2026.10.19-beta) |
